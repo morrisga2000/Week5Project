@@ -1,0 +1,7 @@
+body {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: skyblue;
+
+}
+/* Move down content because we have a fixed navbar that is 50px tall */
